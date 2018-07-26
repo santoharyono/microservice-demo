@@ -11,7 +11,9 @@
         <module name="dashboard" />
         <module name="inventory-service" />
         <module name="microservicedemo2" />
+        <module name="order-service" />
         <module name="service-registry" />
+        <module name="shoppingcart-ui" />
       </profile>
     </annotationProcessing>
   </component>

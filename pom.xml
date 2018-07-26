@@ -8,5 +8,12 @@
     <artifactId>microservice-demo2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+<modules>
+    <module>config-server</module>
+    <module>catalog-service</module>
+    <module>inventory-service</module>
+    <module>service-registry</module>
+    <module>dashboard</module>
+    <module>shoppingcart-ui</module>
+</modules>
 </project>

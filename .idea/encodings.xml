@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/inventory-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoppingcart-ui" charset="UTF-8" />
   </component>
 </project>
