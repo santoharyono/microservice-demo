@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e6ef139-a0a7-48ec-a04a-3f408b3c0e3c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/shoppingcart-ui/src/main/resources/static/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingcart-ui/src/main/resources/static/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingcart-ui/src/main/resources/static/vue.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,14 +21,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog-service/src/main/java/com/mitrais/catalogservice/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -87,8 +93,15 @@
         <option value="$PROJECT_DIR$/shoppingcart-ui/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/shoppingcart-ui/src/main/resources/static/app.js" />
         <option value="$PROJECT_DIR$/shoppingcart-ui/pom.xml" />
-        <option value="$PROJECT_DIR$/shoppingcart-ui/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/model/Order.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/model/OrderItem.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/repository/OrderRepository.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/OrderServiceApplication.java" />
+        <option value="$PROJECT_DIR$/shoppingcart-ui/src/main/resources/templates/index.html" />
       </list>
     </option>
   </component>
@@ -120,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,12 +143,83 @@
             <path>
               <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
-              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="catalogservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="catalogservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="catalogservice" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="catalogservice" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicedemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicedemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="catalogservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -151,6 +234,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
   <component name="RecentsManager">
@@ -175,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ShoppingcartUiApplication">
+  <component name="RunManager" selected="Spring Boot.OrderServiceApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -210,6 +297,16 @@
     <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="inventory-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mitrais.inventoryservice.InventoryServiceApplication" />
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mitrais.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mitrais.orderservice.OrderServiceApplication" />
     </configuration>
     <configuration name="ServiceRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service-registry" />
@@ -248,7 +345,13 @@
       <item itemvalue="Spring Boot.InventoryServiceApplication" />
       <item itemvalue="Spring Boot.DashboardApplication" />
       <item itemvalue="Spring Boot.ShoppingcartUiApplication" />
+      <item itemvalue="Spring Boot.OrderServiceApplication" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderServiceApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpringBeansView">
     <option name="beanDetailsProportion" value="0.3" />
@@ -265,12 +368,14 @@
       <updated>1532419251252</updated>
       <workItem from="1532419256058" duration="4887000" />
       <workItem from="1532478698480" duration="17077000" />
-      <workItem from="1532565739407" duration="6467000" />
+      <workItem from="1532565739407" duration="10655000" />
+      <workItem from="1532655045053" duration="1979000" />
+      <workItem from="1532662159046" duration="88000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28431000" />
+    <option name="totallyTimeSpent" value="34686000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -291,23 +396,22 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.24840085" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32897604" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="TCPMON" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49946696" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49946696" weight="0.32897604" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.24786781" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Learn" order="2" />
@@ -316,6 +420,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -328,23 +433,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/catalog-service/src/main/java/com/mitrais/catalogservice/model/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/catalog-service.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153" />
@@ -378,15 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -476,12 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="30" column="106" selection-start-line="30" selection-start-column="106" selection-end-line="30" selection-end-column="106" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#1629#1656#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -489,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -506,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,15 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -576,38 +634,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shoppingcart-ui/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog-service/src/main/java/com/mitrais/catalogservice/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shoppingcart-ui/src/main/resources/static/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shoppingcart-ui/src/main/java/com/mitrais/shoppingcartui/ShoppingcartUiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -621,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shoppingcart-ui/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="56" lean-forward="true" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -635,5 +658,419 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart-ui/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart-ui/src/main/resources/static/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/model/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/model/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/repository/OrderRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart-ui/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/mitrais/orderservice/OrderServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mitrais.catalogservice">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mitrais.catalogservice</OriginalElement>
+          <nodes>
+            <node x="" y="">com.mitrais.catalogservice.service</node>
+            <node x="" y="">com.mitrais.catalogservice.exception</node>
+            <node x="" y="">com.mitrais.catalogservice.response</node>
+            <node x="" y="">com.mitrais.catalogservice.repository</node>
+            <node x="" y="">com.mitrais.catalogservice.CatalogServiceApplicationTests</node>
+            <node x="" y="">com.mitrais.catalogservice.controller</node>
+            <node x="" y="">com.mitrais.catalogservice.model</node>
+            <node x="" y="">com.mitrais.catalogservice.CatalogServiceApplication</node>
+            <node x="" y="">com.mitrais.catalogservice.util</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="182.0" y="163.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mitrais.catalogservice.controller.ProductController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mitrais.catalogservice.controller.ProductController</OriginalElement>
+          <nodes>
+            <node x="" y="">com.mitrais.catalogservice.controller.ProductController</node>
+            <node x="" y="">org.springframework.web.bind.annotation.RequestMapping</node>
+            <node x="" y="">org.springframework.web.bind.annotation.RestController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="141.0" y="54.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-catalog-service">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-catalog-service</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-catalog-service</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="81.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mitrais.catalogservice.model.Product">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mitrais.catalogservice.model.Product</OriginalElement>
+          <nodes>
+            <node x="189.0" y="0.0">javax.persistence.Entity</node>
+            <node x="0.0" y="0.0">javax.persistence.Table</node>
+            <node x="97.0" y="0.0">lombok.Data</node>
+            <node x="52.0" y="79.0">com.mitrais.catalogservice.model.Product</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.mitrais.catalogservice.model.Product" target="javax.persistence.Table">
+              <point x="-54.0" y="-80.5" />
+              <point x="79.0" y="54.0" />
+              <point x="38.5" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.mitrais.catalogservice.model.Product" target="javax.persistence.Entity">
+              <point x="54.0" y="-80.5" />
+              <point x="187.0" y="54.0" />
+              <point x="228.0" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.mitrais.catalogservice.model.Product" target="lombok.Data">
+              <point x="0.0" y="-80.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-331.0" y="-139.0" />
+          <SelectedNodes>
+            <node>com.mitrais.catalogservice.model.Product</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mitrais.catalogservice.repository.ProductRepository">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mitrais.catalogservice.repository.ProductRepository</OriginalElement>
+          <nodes>
+            <node x="329.19696969696963" y="479.0">org.springframework.data.repository.query.QueryByExampleExecutor</node>
+            <node x="96.19696969696966" y="523.0">org.springframework.data.repository.PagingAndSortingRepository</node>
+            <node x="14.5" y="79.0">org.springframework.data.repository.Repository</node>
+            <node x="182.75" y="1011.0">com.mitrais.catalogservice.repository.ProductRepository</node>
+            <node x="22.0" y="0.0">org.springframework.stereotype.Indexed</node>
+            <node x="0.0" y="158.0">org.springframework.data.repository.CrudRepository</node>
+            <node x="197.25" y="690.0">org.springframework.data.jpa.repository.JpaRepository</node>
+            <node x="210.91666666666663" y="79.0">org.springframework.data.repository.NoRepositoryBean</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.data.jpa.repository.JpaRepository" target="org.springframework.data.repository.NoRepositoryBean">
+              <point x="0.0" y="-135.5" />
+              <point x="321.25" y="665.0" />
+              <point x="318.69696969696963" y="665.0" />
+              <point x="318.69696969696963" y="133.0" />
+              <point x="332.5833333333333" y="133.0" />
+              <point x="48.666666666666686" y="14.5" />
+            </edge>
+            <edge source="org.springframework.data.repository.CrudRepository" target="org.springframework.data.repository.Repository">
+              <point x="-66.5" y="-135.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.mitrais.catalogservice.repository.ProductRepository" target="org.springframework.data.jpa.repository.JpaRepository">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="135.5" />
+            </edge>
+            <edge source="org.springframework.data.jpa.repository.JpaRepository" target="org.springframework.data.repository.query.QueryByExampleExecutor">
+              <point x="82.66666666666669" y="-135.5" />
+              <point x="403.9166666666667" y="665.0" />
+              <point x="470.69696969696963" y="665.0" />
+              <point x="0.0" y="80.5" />
+            </edge>
+            <edge source="org.springframework.data.repository.PagingAndSortingRepository" target="org.springframework.data.repository.CrudRepository">
+              <point x="-53.0" y="-36.5" />
+              <point x="149.19696969696966" y="454.0" />
+              <point x="133.0" y="454.0" />
+              <point x="0.0" y="135.5" />
+            </edge>
+            <edge source="org.springframework.data.jpa.repository.JpaRepository" target="org.springframework.data.repository.PagingAndSortingRepository">
+              <point x="-82.66666666666669" y="-135.5" />
+              <point x="238.58333333333331" y="665.0" />
+              <point x="202.19696969696966" y="665.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="org.springframework.data.repository.CrudRepository" target="org.springframework.data.repository.NoRepositoryBean">
+              <point x="66.5" y="-135.5" />
+              <point x="199.5" y="133.0" />
+              <point x="235.24999999999994" y="133.0" />
+              <point x="-48.666666666666686" y="14.5" />
+            </edge>
+            <edge source="org.springframework.data.repository.Repository" target="org.springframework.stereotype.Indexed">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.data.repository.PagingAndSortingRepository" target="org.springframework.data.repository.NoRepositoryBean">
+              <point x="53.0" y="-36.5" />
+              <point x="255.19696969696966" y="454.0" />
+              <point x="276.5" y="454.0" />
+              <point x="276.5" y="133.0" />
+              <point x="283.91666666666663" y="133.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-245.0" y="456.0" />
+          <SelectedNodes>
+            <node>com.mitrais.catalogservice.repository.ProductRepository</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mitrais.catalogservice.service.ProductService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mitrais.catalogservice.service.ProductService</OriginalElement>
+          <nodes>
+            <node x="2.0" y="99.0">lombok.extern.slf4j.Slf4j</node>
+            <node x="160.0" y="99.0">org.springframework.stereotype.Service</node>
+            <node x="0.0" y="299.0">com.mitrais.catalogservice.service.ProductService</node>
+            <node x="319.0" y="0.0">org.springframework.transaction.annotation.Transactional</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.mitrais.catalogservice.service.ProductService" target="org.springframework.transaction.annotation.Transactional">
+              <point x="153.0" y="-92.5" />
+              <point x="382.5" y="274.0" />
+              <point x="476.0" y="274.0" />
+              <point x="0.0" y="124.5" />
+            </edge>
+            <edge source="com.mitrais.catalogservice.service.ProductService" target="lombok.extern.slf4j.Slf4j">
+              <point x="-153.0" y="-92.5" />
+              <point x="76.5" y="274.0" />
+              <point x="71.0" y="274.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.mitrais.catalogservice.service.ProductService" target="org.springframework.stereotype.Service">
+              <point x="0.0" y="-92.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-308.0" y="-122.0" />
+          <SelectedNodes>
+            <node>com.mitrais.catalogservice.service.ProductService</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog-service/src/main/java/com/mitrais/catalogservice/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mitrais.catalogservice.controller">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mitrais.catalogservice.controller</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.mitrais.catalogservice.controller.ProductController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="72.0" y="15.0" />
+          <SelectedNodes>
+            <node>com.mitrais.catalogservice.controller.ProductController</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>catalog-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
